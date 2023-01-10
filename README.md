@@ -30,6 +30,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 here is the link to the portfolio that has been deployed onto github
 
+https://nshaw973.github.io/Nathan-Shaw-Portfolio
+
 ![portfolio](https://nshaw973.github.io/Nathan-Shaw-Portfolio)
 
 ## Screenshots of project
